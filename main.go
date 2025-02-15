@@ -1,6 +1,6 @@
 package main 
 
-import "github.com/maddelasaikarthik/session-manager/session"
+import "github.com/seroze/session-manager/session"
 import "fmt"
 
 func main(){
